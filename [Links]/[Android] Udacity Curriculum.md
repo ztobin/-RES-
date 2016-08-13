@@ -24,8 +24,8 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How to Create Anything](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Basics: Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Networking](https://www.udacity.com/course/android-basics-networking--ud843)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)  
 
 -----
@@ -75,8 +75,8 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Beginner     | Preparation | [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)                 | 1 Day    |                                                                     |
 | Beginner     | Core        | [App Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)             | 4 Weeks  | Score Tracker, Fact List, Quiz, Music Player, Business Info         |
 | Beginner     | Core        | [How to Create Anything](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)                    | 4 Weeks  | Build Your Own App                                                  |
-| Beginner     | Core        | [Basics: Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)                  | 2 Months | Report Card, Tour Guide                                             |
-| Beginner     | Core        | [Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)                                | 5 Weeks  | Book List, News Reader                                              |
+| Beginner     | Core        | [Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)                          | 2 Months | Report Card, Tour Guide                                             |
+| Beginner     | Core        | [Networking](https://www.udacity.com/course/android-basics-networking--ud843)                                        | 5 Weeks  | Book List, News Reader                                              |
 | Beginner     | Core        | [UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)                                   | 6 Weeks  | Build a User-Targeted App                                           |
 | Intermediate | Core        | [Developing Apps](https://www.udacity.com/course/developing-android-apps--ud853)                                     | 2 Weeks  | Popular Movies, Weather, Build Your Own App                         |
 | Intermediate | Core        | [Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862)                      | 4 Weeks  | Apply Material Design to News Reader                                |
