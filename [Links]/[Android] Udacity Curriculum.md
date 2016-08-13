@@ -52,3 +52,39 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Android TV & Google Cast](https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Android Auto](https://www.udacity.com/course/android-auto-development--ud875C)  
+
+&nbsp;
+
+-----
+
+&nbsp;
+
+# Overview
+
+| Course                                                                                                               | Length   | Projects                                                            |
+| :---                                                                                                                 | :---     | :---                                                                |
+| [Java Basics](https://www.udacity.com/course/java-programming-basics--ud282)                                         | 6 Weeks  |                                                                     |
+| [Intro to Java](https://www.udacity.com/course/intro-to-java-programming--cs046)                                     | 4 Months |                                                                     |
+| [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)                         | 3 Weeks  | Contribute to a Repository                                          |
+| [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)                 | 1 Day    |                                                                     |
+| [App Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)             | 4 Weeks  | Court Counter, 5 Things, Quiz, Musical Structure, Single-Screen App |
+| [How to Create Anything](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)                    | 4 Weeks  | Build a Basic App                                                   |
+| [Basics: Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)                  | 2 Months | Report Card, Tour Guide                                             |
+| [Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)                                | 5 Weeks  | Book List, News Reader                                              |
+| [UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)                                   | 6 Weeks  | Build a User-Targeted App                                           |
+| [Developing Apps](https://www.udacity.com/course/developing-android-apps--ud853)                                     | 2 Weeks  | Popular Movies, Weather, Build Your Own App                         |
+| [Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862)                      | 4 Weeks  | Apply Material Design to News Reader                                |
+| [Google Sign-In](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)                    | 2 Weeks  |                                                                     |
+| [Google Maps](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4)                           | 2 Weeks  |                                                                     |
+| [Google Location Services](https://www.udacity.com/course/google-location-services-on-android--ud876-1)              | 2 Weeks  |                                                                     |
+| [Google Analytics](https://www.udacity.com/course/google-analytics-for-android--ud876-2)                             | 2 Weeks  |                                                                     |
+| [Monetize your App with Ads](https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3)             | 2 Weeks  |                                                                     |
+| [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)             | 8 Weeks  | Breakout Clone                                                      |
+| [How to Make a Platformer using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406) | 8 Weeks  | Space Shooter                                                       |
+| [Advanced App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)                   | 6 Weeks  | Stock Tracker                                                       |
+| [App Performance](https://www.udacity.com/course/android-performance--ud825)                                         | 4 Weeks  |                                                                     |
+| [Firebase Essentials](https://www.udacity.com/course/firebase-essentials-for-android--ud009)                         | 8 Weeks  |                                                                     |
+| [Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867)                                          | 6 Weeks  | Joke Teller                                                         |
+| [Android TV & Google Cast](https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B)            | 1 Week   | Create Mobile Interface for Weather App                             |
+| [Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)                                      | 2 Weeks  |                                                                     |
+| [Android Auto](https://www.udacity.com/course/android-auto-development--ud875C)                                      | 1 Week   |                                                                     |
