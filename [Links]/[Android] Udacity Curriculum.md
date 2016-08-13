@@ -4,7 +4,7 @@
 
 &nbsp;
 
-The sections below include all of [**Udacity's Android-related courses**](https://www.udacity.com/courses/android), including their [**Android Basics**](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) & [**Android Developer**](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) Nanodegree material.
+The sections below include all of Udacity's [**Android-related courses**](https://www.udacity.com/courses/android), including their [**Android Basics**](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) & [**Android Developer**](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) Nanodegree material.
 
 The complete course list is presently lacking a linear curriculum, so this reference aims to provide a clear, easy to follow path based on each course's prerequisites. The course order in the "Full Curriculum" sections is structured so that inidividuals with no prior programming experience can work through them from start to finish.
 
