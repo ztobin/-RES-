@@ -85,8 +85,8 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Advanced     | Core        | [App Performance](https://www.udacity.com/course/android-performance--ud825)                                         | 4 Weeks  |                                                                     |
 | Advanced     | Core        | [Firebase Essentials](https://www.udacity.com/course/firebase-essentials-for-android--ud009)                         | 8 Weeks  |                                                                     |
 | Advanced     | Core        | [Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867)                                          | 6 Weeks  | Joke Teller                                                         |
-| Advanced     | Platforms   | [Android TV & Google Cast](https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B)            | 1 Week   | Create Mobile Interface for Weather App                             |
-| Advanced     | Platforms   | [Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)                                      | 2 Weeks  |                                                                     |
+| Advanced     | Platforms   | [Android TV & Google Cast](https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B)            | 1 Week   |                                                                     |
+| Advanced     | Platforms   | [Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)                                      | 2 Weeks  | Create Wear Interface for Weather App                               |
 | Advanced     | Platforms   | [Android Auto](https://www.udacity.com/course/android-auto-development--ud875C)                                      | 1 Week   |                                                                     |
 
 &nbsp;
