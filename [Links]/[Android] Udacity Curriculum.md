@@ -95,14 +95,13 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Advanced     | Platforms   | [Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)                           | 2 Weeks  | Create Wear Interface for Weather App                       |
 | Advanced     | Platforms   | [Android Auto](https://www.udacity.com/course/android-auto-development--ud875C)                           | 1 Week   |                                                             |
 
+*\*Course lengths are based on Udacity's presumed allocation of 6 hours per week.*
 &nbsp;
 
 ### Notes
 
-The project lists are approximated, there might be a few more or less in the actual courses.
+Several of the course overviews are somewhat vague. Be aware that:
+  * Project lists are approximated. There might be some variance in actual projects per course.
+  * Some of the projects are not specific to a single course, and will be worked on several times throughout the entirety of the curriculum.
+  * I took a few liberties with the course & project names to provide concise, informative descriptions; while maintaining & interpreting the original context to the best of my ability.
 
-Some of the course & project descriptions were vague so I just tried to transcribe them as accurately as possible with the given information, while also adapting some of their names to provide a uniform context.
-
-Also, some of the projects are not specific to a single course, and will be worked on several times throughout the entirety of the curriculum.
-
-Course lengths are based on Udacity's presumed allocation of 6 hours per week.
