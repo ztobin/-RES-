@@ -96,3 +96,5 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 The project lists are approximated, and there might be a few more or less in the actual courses. Some of the course descriptions were vague so I just tried to transcribe them as accurately as possible.
 
 Also, some of the projects are not specific to a single course, and will be worked on several times throughout the entirety of the curriculum.
+
+Course lengths are based on Udacity's presumed allocation of 6 hours per week.
