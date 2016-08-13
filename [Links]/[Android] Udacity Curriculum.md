@@ -91,7 +91,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 &nbsp;
 
-## Notes
+### Notes
 
 The project lists are approximated, and there might be a few more or less in the actual courses. Some of the course & project descriptions were vague so I just tried to transcribe them as accurately as possible with the given information.
 
