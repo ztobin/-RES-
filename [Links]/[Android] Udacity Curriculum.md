@@ -5,7 +5,7 @@ The lists below include all of [**Udacity's Android-related courses**](https://w
 The Udacity course listing is currently lacking a linear curriculum, so I created this reference in order to provide a clear, easy to follow path based on each course's prerequisites.
 
 All of the courses [**can be taken for free**](http://imgur.com/a/GoLJF); although the paid Nanodegree program does offer additional benefits, including:
-* a Google accredited certificate of completion
+* a Google-accredited certificate of completion
 * code reviews & guidance by Google-certified instructors
 * access to a course support forum
 * guaranteed job eligibility ( [***Nanodegree Plus***](https://www.udacity.com/nanodegree/plus) )
