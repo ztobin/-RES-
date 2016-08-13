@@ -1,6 +1,6 @@
 # Android Courses @ Udacity
 
-Includes all Nanodegree & non-Nanodegree courses, structured into a linear curriculum.
+This list includes all Nanodegree & non-Nanodegree courses offered by Udacity for Android development. They are arranged based on course prerequisites in order to provide a linear, easy to follow curriculum.
 
 All courses can be taken for free, although you must sign up for the Nanodegree program if you want to receive the certificate of completion.
 
