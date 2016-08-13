@@ -6,9 +6,9 @@
 
 The sections below include all of Udacity's [**Android-related courses**](https://www.udacity.com/courses/android), including their [**Android Basics**](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) & [**Android Developer**](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) Nanodegree material.
 
-The complete course list is presently lacking a linear curriculum, so this reference aims to provide a clear, easy to follow path based on each course's prerequisites. The course order in the "Full Curriculum" sections is structured so that inidividuals with no prior programming experience can work through them from start to finish.
+The complete course list is presently lacking a linear curriculum, so this reference aims to provide a clear, easy to follow path based on each course's prerequisites. The course order in the "*Full Curriculum*" sections is structured so that inidividuals with no prior programming experience can work through them from start to finish.
 
-All of the courses [**can be taken for free**](http://imgur.com/a/GoLJF); although the paid Nanodegree programs do offer additional benefits, including:
+All of the [**courses can be taken for free**](http://imgur.com/a/GoLJF); although the paid Nanodegree programs do offer additional benefits, including:
 * a Google-accredited certificate of completion
 * code reviews & guidance by Google-certified instructors
 * access to a course support forum
@@ -153,4 +153,4 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 Several of the original course overviews are somewhat vague. Be aware that:
   * Project lists are approximated. There might be some variance in actual projects per course.
   * Some of the projects are not specific to a single course, and will be worked on several times throughout the entirety of the curriculum.
-  * I took a few liberties with the course & project names to provide concise, informative descriptions; while maintaining & interpreting the original context to the best of my ability.
+  * I took a few liberties with the course & project names to provide concise, informative descriptions; while maintaining & interpreting the original contexts to the best of my ability.
