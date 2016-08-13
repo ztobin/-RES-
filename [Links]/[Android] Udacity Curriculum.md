@@ -51,8 +51,8 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Advanced App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Performance](https://www.udacity.com/course/android-performance--ud825)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Firebase Essentials](https://www.udacity.com/course/firebase-essentials-for-android--ud009)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Optimizing App Performance](https://www.udacity.com/course/android-performance--ud825)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Firebase](https://www.udacity.com/course/firebase-essentials-for-android--ud009)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867)  
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Platforms
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Android TV & Google Cast](https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B)  
@@ -75,7 +75,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Beginner     | Preparation | [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)                 | 1 Day    |                                                                     |
 | Beginner     | Core        | [App Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)             | 4 Weeks  | Score Tracker, Fact List, Quiz, Music Player, Business Info         |
 | Beginner     | Core        | [How to Create Anything](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)                    | 4 Weeks  | Build Your Own App                                                  |
-| Beginner     | Core        | [Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)                          | 2 Months | Report Card, Tour Guide                                             |
+| Beginner     | Core        | [Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)                          | 8 Weeks  | Report Card, Tour Guide                                             |
 | Beginner     | Core        | [Networking](https://www.udacity.com/course/android-basics-networking--ud843)                                        | 5 Weeks  | Book List, News Reader                                              |
 | Beginner     | Core        | [UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)                                   | 6 Weeks  | Build a User-Targeted App                                           |
 | Intermediate | Core        | [Developing Apps](https://www.udacity.com/course/developing-android-apps--ud853)                                     | 2 Weeks  | Popular Movies, Weather, Build Your Own App                         |
@@ -88,8 +88,8 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Intermediate | Games       | [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)             | 8 Weeks  | Breakout Clone                                                      |
 | Intermediate | Games       | [How to Make a Platformer using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406) | 8 Weeks  | Space Shooter                                                       |
 | Advanced     | Core        | [Advanced App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)                   | 6 Weeks  | Stock Tracker                                                       |
-| Advanced     | Core        | [App Performance](https://www.udacity.com/course/android-performance--ud825)                                         | 4 Weeks  |                                                                     |
-| Advanced     | Core        | [Firebase Essentials](https://www.udacity.com/course/firebase-essentials-for-android--ud009)                         | 8 Weeks  |                                                                     |
+| Advanced     | Core        | [Optimizing App Performance](https://www.udacity.com/course/android-performance--ud825)                              | 4 Weeks  |                                                                     |
+| Advanced     | Core        | [Firebase](https://www.udacity.com/course/firebase-essentials-for-android--ud009)                                    | 8 Weeks  |                                                                     |
 | Advanced     | Core        | [Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867)                                          | 6 Weeks  | Joke Teller                                                         |
 | Advanced     | Platforms   | [Android TV & Google Cast](https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B)            | 1 Week   |                                                                     |
 | Advanced     | Platforms   | [Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)                                      | 2 Weeks  | Create Wear Interface for Weather App                               |
