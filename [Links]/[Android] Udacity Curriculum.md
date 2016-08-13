@@ -105,4 +105,3 @@ Several of the original course overviews are somewhat vague. Be aware that:
   * Project lists are approximated. There might be some variance in actual projects per course.
   * Some of the projects are not specific to a single course, and will be worked on several times throughout the entirety of the curriculum.
   * I took a few liberties with the course & project names to provide concise, informative descriptions; while maintaining & interpreting the original context to the best of my ability.
-
