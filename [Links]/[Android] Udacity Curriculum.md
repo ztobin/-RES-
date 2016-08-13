@@ -29,7 +29,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Developing Apps](https://www.udacity.com/course/developing-android-apps--ud853)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862)  
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extensions
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Services
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Google Sign-In](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Google Maps](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Google Location Services](https://www.udacity.com/course/google-location-services-on-android--ud876-1)  
@@ -74,11 +74,11 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Beginner     | Core        | [UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)                                   | 6 Weeks  | Build a User-Targeted App                                           |
 | Intermediate | Core        | [Developing Apps](https://www.udacity.com/course/developing-android-apps--ud853)                                     | 2 Weeks  | Popular Movies, Weather, Build Your Own App                         |
 | Intermediate | Core        | [Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862)                      | 4 Weeks  | Apply Material Design to News Reader                                |
-| Intermediate | Extensions  | [Google Sign-In](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)                    | 2 Weeks  |                                                                     |
-| Intermediate | Extensions  | [Google Maps](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4)                           | 2 Weeks  |                                                                     |
-| Intermediate | Extensions  | [Google Location Services](https://www.udacity.com/course/google-location-services-on-android--ud876-1)              | 2 Weeks  |                                                                     |
-| Intermediate | Extensions  | [Google Analytics](https://www.udacity.com/course/google-analytics-for-android--ud876-2)                             | 2 Weeks  |                                                                     |
-| Intermediate | Extensions  | [Monetize your App with Ads](https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3)             | 2 Weeks  |                                                                     |
+| Intermediate | Services    | [Google Sign-In](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)                    | 2 Weeks  |                                                                     |
+| Intermediate | Services    | [Google Maps](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4)                           | 2 Weeks  |                                                                     |
+| Intermediate | Services    | [Google Location Services](https://www.udacity.com/course/google-location-services-on-android--ud876-1)              | 2 Weeks  |                                                                     |
+| Intermediate | Services    | [Google Analytics](https://www.udacity.com/course/google-analytics-for-android--ud876-2)                             | 2 Weeks  |                                                                     |
+| Intermediate | Services    | [Monetize your App with Ads](https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3)             | 2 Weeks  |                                                                     |
 | Intermediate | Games       | [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)             | 8 Weeks  | Breakout Clone                                                      |
 | Intermediate | Games       | [How to Make a Platformer using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406) | 8 Weeks  | Space Shooter                                                       |
 | Advanced     | Core        | [Advanced App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)                   | 6 Weeks  | Stock Tracker                                                       |
