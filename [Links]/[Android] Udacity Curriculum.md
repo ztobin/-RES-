@@ -93,7 +93,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 ### Notes
 
-The project lists are approximated, and there might be a few more or less in the actual courses. Some of the course & project descriptions were vague so I just tried to transcribe them as accurately as possible with the given information.
+The project lists are approximated, there might be a few more or less in the actual courses. Some of the course & project descriptions were vague so I just tried to transcribe them as accurately as possible with the given information.
 
 Also, some of the projects are not specific to a single course, and will be worked on several times throughout the entirety of the curriculum.
 
