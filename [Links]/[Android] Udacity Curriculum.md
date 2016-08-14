@@ -11,7 +11,7 @@ The complete course list is presently lacking a linear curriculum, so this refer
 All of the [**courses can be taken for free**](http://imgur.com/a/GoLJF); although the paid Nanodegree programs do offer additional benefits, including:
 * a Google-accredited certificate of completion
 * code reviews & guidance by Google-certified instructors
-* access to a Nanodegree exlusive Slack network
+* access to a Nanodegree-exclusive Slack network
 * guaranteed job eligibility ( [***Nanodegree Plus***](https://www.udacity.com/nanodegree/plus) )
 
 &nbsp;
