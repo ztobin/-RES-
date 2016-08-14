@@ -8,11 +8,7 @@ The sections below include all of Udacity's Android-related courses, including t
 
 The [**complete course list**](https://www.udacity.com/courses/android) is presently lacking a linear curriculum, so this reference aims to provide a clear, easy to follow path based on each course's prerequisites. The course order in the "*Full Curriculum*" sections is structured so that inidividuals with no prior programming experience can work through them from start to finish.
 
-All of the [**courses can be taken for free**](http://imgur.com/a/GoLJF); although the paid Nanodegree programs do offer additional benefits, including:
-* a Google-accredited certificate of completion
-* code reviews & guidance by Google-certified instructors
-* access to a Nanodegree-exclusive Slack network
-* guaranteed job eligibility ( [***Nanodegree Plus***](https://www.udacity.com/nanodegree/plus) )
+All of the [**courses can be taken for free**](http://imgur.com/a/GoLJF); although the paid Nanodegree programs do offer [**additional benefits**]().
 
 &nbsp;
 
@@ -150,9 +146,21 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 # FAQ / Resources
 
-&nbsp; 
+&nbsp;
 
-> Is there any kind of support network available for the courses?
+[Is there any kind of support network available for the courses?](#is-there-any-kind-of-support-network-available-for-the-courses)
+
+[Are Nanodegree projects & material included in the free courses?](#are-nanodegree-projects--material-included-in-the-free-courses)
+
+[How do the Nanodegree programs work?](#how-do-the-nanodegree-programs-work)
+
+[I'm interested in receiving the Nanodegree, but I can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a cheaper way to complete the program?](#im-interested-in-receiving-the-nanodegree-but-i-cant-afford-to-pay-the-200-300-monthly-fees-for-6-12-months-is-there-a-cheaper-way-to-complete-the-program)
+
+[The course names on this page are different from the ones on Udacity.&nbsp; How can I find a course based on its actual name?](#the-course-names-on-this-page-are-different-from-the-ones-on-udacity-how-can-i-find-a-course-based-on-its-actual-name)
+
+&nbsp;
+
+> ### Is there any kind of support network available for the courses?
 
 Yes. Udacity offers [**official course forums**](https://discussions.udacity.com/c/standalone-courses) that are accessible to all students ( *both free & paid* ).
 
@@ -160,20 +168,36 @@ Additionally, students enrolled in the paid Nanodegree programs will be given ac
 
 &nbsp; 
 
-> Are Nanodegree projects & material included in the free courses?
+> ### Are Nanodegree projects & material included in the free courses?
 
 Yes. See [**this article**](https://udacity.zendesk.com/hc/en-us/articles/208018403-Are-Nanodegree-course-and-project-materials-available-for-free) on Udacity's support page.
 
 &nbsp; 
 
-> How do the Nanodegree programs work?
+> ### How do the Nanodegree programs work?
 
-See [**this article**](http://blog.udacity.com/2016/05/breaking-down-how-a-nanodegree-program-works.html) on Udacity's blog.
+Nanodegrees provide a curriculum which consists of multiple courses & various projects.
+
+Some of the benefits include:
+
+* a Google-accredited certificate of completion
+* code reviews & guidance by Google-certified instructors
+* access to a Nanodegree-exclusive Slack network
+* guaranteed job eligibility ( [***Nanodegree Plus***](https://www.udacity.com/nanodegree/plus) )
+
+[**Android Basics**](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803):  
+> We built this program with Google specifically to support aspiring Android Developers with no programming experience. Our goal is to ensure you get the real-world skills you need to actually start building Android apps.  
+
+[**Android Developer**](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801):  
+> For intermediate Java developers pursuing Android specialization, this program teaches the tools, principles, and patterns that underlie all Android development.&nbsp; The skills you learn in this Nanodegree program will help you master the existing platform, and prepare you for the exciting opportunities in Android's future.  
+> ...  
+> We built this Nanodegree program in partnership with Google specifically to support aspiring Android Developers.&nbsp; The curriculum is designed to transform those with intermediate skills and a working knowledge of Java development best practices into specialists with the Android platform.&nbsp; Successful completion of the program means a diverse portfolio of projects to show employers, an established credential to affirm your achievements, and your own app on the Google Play Store.&nbsp; If your goal is employment as an Android Developer, this program is exactly what you need to succeed.  
+
+See [**this article**](http://blog.udacity.com/2016/05/breaking-down-how-a-nanodegree-program-works.html) on Udacity's blog for more information.
 
 &nbsp; 
 
-> I'm interested in receiving the Nanodegree, but I can't afford to pay the $200-300 monthly fees for 6-12 months.  
-> Is there a cheaper way to complete the program?
+> ### I'm interested in receiving the Nanodegree, but I can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a cheaper way to complete the program?
 
 [**According to Udacity's blog**](http://blog.udacity.com/2015/06/how-you-can-afford-the-nanodegree.html), you can work through the course material for free, and then go back & complete the actual Nanodegree program in 2 months ( *the minimum enrollment period* ).
 
@@ -195,8 +219,7 @@ $0 total ( *assuming you did not find a job, and meet the terms of the Nanodegre
 
 &nbsp;
 
-> The course names on this page are different from the ones on Udacity.  
-> How can I find a course based on its actual name?
+> ### The course names on this page are different from the ones on Udacity.&nbsp; How can I find a course based on its actual name?
 
 Course listings on this page were renamed to provide a context that shows course relationships.
 
