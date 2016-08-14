@@ -162,7 +162,7 @@ Additionally, students enrolled in the paid Nanodegree programs will be given ac
 
 > Are Nanodegree projects & material included in the free courses?
 
-For the most part. See [**this article**](https://udacity.zendesk.com/hc/en-us/articles/208018403-Are-Nanodegree-course-and-project-materials-available-for-free) on Udacity's support page.
+Yes. See [**this article**](https://udacity.zendesk.com/hc/en-us/articles/208018403-Are-Nanodegree-course-and-project-materials-available-for-free) on Udacity's support page.
 
 &nbsp; 
 
