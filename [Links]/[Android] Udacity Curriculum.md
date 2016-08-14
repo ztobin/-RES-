@@ -1,6 +1,6 @@
 # Android Courses @ Udacity
 
-[**Full Curriculum (Outline)**](#full-curriculum-outline) &nbsp;**|**&nbsp; [**Full Curriculum (Details)**](#full-curriculum-details) &nbsp;**|**&nbsp; [**Nanodegree Outlines**](#nanodegree-outlines) &nbsp;**|**&nbsp; [**Notes**](#notes)
+[**Full Curriculum (Outline)**](#full-curriculum-outline) &nbsp;**|**&nbsp; [**Full Curriculum (Details)**](#full-curriculum-details) &nbsp;**|**&nbsp; [**Nanodegree Outlines**](#nanodegree-outlines) &nbsp;**|**&nbsp; [**FAQ / Resources**](#faq) &nbsp;**|**&nbsp; [**Notes**](#notes)
 
 &nbsp;
 
@@ -141,6 +141,37 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)  
+
+&nbsp;
+
+-----
+
+&nbsp;
+
+# FAQ / Resources
+
+> Is there any kind of support network available for the courses?
+Yes. Udacity offers [official course forums](https://discussions.udacity.com/c/standalone-courses) that are accessible to all students ( *both free & paid* ).
+
+> Are Nanodegree projects & material included in the free courses?
+For the most part. See [**this article**](https://udacity.zendesk.com/hc/en-us/articles/208018403-Are-Nanodegree-course-and-project-materials-available-for-free) on Udacity's support page.
+
+> I'm interested in receiving the Nanodegree, but I can't afford to pay the $200-300 monthly fees for 6-12 months. Is there a cheaper way to complete the program?
+[According to Udacity's blog](http://blog.udacity.com/2015/06/how-you-can-afford-the-nanodegree.html), you can work the course material for free, and then go back & complete the actual Nanodegree program in 2 months ( *the minimum enrollment period* ).
+
+Additionally, you have two options on how you could go about this:  
+
+[**Nanodegree**](https://www.udacity.com/nanodegree)  
+`Graduate in 12 months, get a 50% tuition refund`  
+(`$199/MONTH` × 2) - `50% refund` =  
+`$199 total`  
+&nbsp;  
+
+[**Nanodegree Plus**](https://www.udacity.com/nanodegree/plus)  
+(`$299/MONTH` × 2) =  
+`$598 total` ( *assuming you manage to find a job within 6 months* )
+OR
+`$0` ( *assuming you comply with the terms of the Nanodegree Plus program* )
 
 &nbsp;
 
