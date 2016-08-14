@@ -174,7 +174,7 @@ See [**this article**](http://blog.udacity.com/2016/05/breaking-down-how-a-nanod
 
 > I'm interested in receiving the Nanodegree, but I can't afford to pay the $200-300 monthly fees for 6-12 months. Is there a cheaper way to complete the program?
 
-[**According to Udacity's blog**](http://blog.udacity.com/2015/06/how-you-can-afford-the-nanodegree.html), you can work the course material for free, and then go back & complete the actual Nanodegree program in 2 months ( *the minimum enrollment period* ).
+[**According to Udacity's blog**](http://blog.udacity.com/2015/06/how-you-can-afford-the-nanodegree.html), you can work through the course material for free, and then go back & complete the actual Nanodegree program in 2 months ( *the minimum enrollment period* ).
 
 Additionally, you have two options on how you could go about this:
 
@@ -190,7 +190,7 @@ $199 total
 ($299/month × 2) =  
 $598 total ( *assuming you manage to find a job within 6 months* )  
 OR  
-$0 total ( *assuming you comply with the terms of the Nanodegree Plus program* )  
+$0 total ( *assuming you did not find a job, and meet the terms of the Nanodegree Plus program* )  
 
 &nbsp;
 
