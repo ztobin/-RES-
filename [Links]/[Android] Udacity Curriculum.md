@@ -8,7 +8,7 @@ The sections below include all of Udacity's Android-related courses, including t
 
 The [**complete course list**](https://www.udacity.com/courses/android) is presently lacking a linear curriculum, so this reference aims to provide a clear, easy to follow path based on each course's prerequisites. The course order in the "*Full Curriculum*" sections is structured so that inidividuals with no prior programming experience can work through them from start to finish.
 
-All of the [**courses can be taken for free**](http://imgur.com/a/GoLJF); although the paid Nanodegree programs do offer [**additional benefits**]().
+All of the [**courses can be taken for free**](http://imgur.com/a/GoLJF); although the paid Nanodegree programs do offer [**additional benefits**](#how-do-the-nanodegree-programs-work).
 
 &nbsp;
 
