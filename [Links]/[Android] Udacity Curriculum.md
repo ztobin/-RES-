@@ -174,15 +174,15 @@ Additionally, you have two options on how you could go about this:
 `Graduate in 12 months, get a 50% tuition refund`
 
 ($199/MONTH × 2) - 50% refund =  
-**$199** total
+$199 total
 
 [**Nanodegree Plus**](https://www.udacity.com/nanodegree/plus)  
 `Get hired or receive a full tuition refund`
 
 ($299/MONTH × 2) =  
-**$598** total ( *assuming you manage to find a job within 6 months* )  
+$598 total ( *assuming you manage to find a job within 6 months* )  
 OR  
-**$0** total ( *assuming you comply with the terms of the Nanodegree Plus program* )  
+$0 total ( *assuming you comply with the terms of the Nanodegree Plus program* )  
 
 &nbsp;
 
