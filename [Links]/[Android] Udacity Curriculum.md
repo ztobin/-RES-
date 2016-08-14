@@ -121,7 +121,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Networking](https://www.udacity.com/course/android-basics-networking--ud843)    
 
-*Also, there are currently Habit Tracker & Inventory Tracker projects listed with the message: "Supporting course content coming in August!". I believe these will be part of the "Android Basics: Data Storage" course which is currently listed as "Coming Soon".*
+*Also, there are currently "Habit Tracker" & "Inventory Tracker" projects listed with the message: "Supporting course content coming in August!". I believe these will be part of the "Android Basics: Data Storage" course which is currently listed as "Coming Soon".*
 
 &nbsp;
 
