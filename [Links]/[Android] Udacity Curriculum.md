@@ -154,7 +154,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 [How do the Nanodegree programs work?](#how-do-the-nanodegree-programs-work)
 
-[I'm interested in working through the Nanodegree program, but I can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a more affordable way to complete the program?](#im-interested-in-working-through-the-nanodegree-but-i-cant-afford-to-pay-the-200-300-monthly-fees-for-6-12-months-is-there-a-more-affordable-way-to-complete-the-program)
+[I'm interested in working through the Nanodegree program, but I can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a more affordable way to complete the program?](#im-interested-in-working-through-the-nanodegree-program-but-i-cant-afford-to-pay-the-200-300-monthly-fees-for-6-12-months-is-there-a-more-affordable-way-to-complete-the-program)
 
 [The course names on this page are different from the ones on Udacity.&nbsp; How can I find a course based on its actual name?](#the-course-names-on-this-page-are-different-from-the-ones-on-udacity-how-can-i-find-a-course-based-on-its-actual-name)
 
