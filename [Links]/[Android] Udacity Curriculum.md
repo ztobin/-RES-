@@ -1,6 +1,6 @@
 # Android Courses @ Udacity
 
-[**Full Curriculum (Outline)**](#full-curriculum-outline) &nbsp;**|**&nbsp; [**Full Curriculum (Details)**](#full-curriculum-details) &nbsp;**|**&nbsp; [**Nanodegree Outlines**](#nanodegree-outlines) &nbsp;**|**&nbsp; [**FAQ / Resources**](#faq) &nbsp;**|**&nbsp; [**Notes**](#notes)
+[**Full Curriculum (Outline)**](#full-curriculum-outline) &nbsp;**|**&nbsp; [**Full Curriculum (Details)**](#full-curriculum-details) &nbsp;**|**&nbsp; [**Nanodegree Outlines**](#nanodegree-outlines) &nbsp;**|**&nbsp; [**FAQ / Resources**](#faq--resources) &nbsp;**|**&nbsp; [**Notes**](#notes)
 
 &nbsp;
 
