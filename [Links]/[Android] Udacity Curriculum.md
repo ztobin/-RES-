@@ -150,7 +150,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 [Is there any kind of support network available for the courses?](#is-there-any-kind-of-support-network-available-for-the-courses)
 
-[Are Nanodegree projects & material included in the free courses?](#are-nanodegree-projects--material-included-in-the-free-courses)
+[Are Nanodegree projects & lessons included in the free courses?](#are-nanodegree-projects--lessons-included-in-the-free-courses)
 
 [How do the Nanodegree programs work?](#how-do-the-nanodegree-programs-work)
 
@@ -168,9 +168,9 @@ Additionally, students enrolled in the paid Nanodegree programs will be given ac
 
 &nbsp; 
 
-> ### Are Nanodegree projects & material included in the free courses?
+> ### Are Nanodegree projects & lessons included in the free courses?
 
-Yes. See [**this article**](https://udacity.zendesk.com/hc/en-us/articles/208018403-Are-Nanodegree-course-and-project-materials-available-for-free) on Udacity's support page.
+Yes. See [**this article**](https://udacity.zendesk.com/hc/en-us/articles/208018403-Are-Nanodegree-course-and-project-lessonss-available-for-free) on Udacity's support page.
 
 &nbsp; 
 
