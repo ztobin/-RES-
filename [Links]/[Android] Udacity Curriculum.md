@@ -198,11 +198,9 @@ $0 total ( *assuming you did not find a job, and meet the terms of the Nanodegre
 
 Course listings on this page were renamed to provide a context that shows course relationships.
 
-The `# Full Curriculum (Details)` section on the [**raw Markdown**](https://raw.githubusercontent.com/Enteleform/-RES-/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md) page can be used to reference actual course names.  
-&nbsp;  
-If you want to check a specific course against the context-based names: the fastest way is probably to use your web browser's search function and paste the course name from the URL.  
-&nbsp;  
-[**For example**](http://imgur.com/BVKhIHO), `developing-android-apps` instead of `Developing Android Apps`.
+The `# Full Curriculum (Details)` section on the [**raw Markdown**](https://raw.githubusercontent.com/Enteleform/-RES-/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md) page can be used to reference actual course names.
+
+If you want to check a specific course against the context-based names: the fastest way is probably to use your web browser's search function and paste the course name from the URL.&nbsp; [**For example**](http://imgur.com/BVKhIHO), `developing-android-apps` instead of `Developing Android Apps`.
 
 &nbsp;
 
