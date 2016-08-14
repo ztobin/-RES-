@@ -150,6 +150,8 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 # FAQ / Resources
 
+&nbsp; 
+
 > Is there any kind of support network available for the courses?
 
 Yes. Udacity offers [**official course forums**](https://discussions.udacity.com/c/standalone-courses) that are accessible to all students ( *both free & paid* ).
@@ -169,13 +171,13 @@ For the most part. See [**this article**](https://udacity.zendesk.com/hc/en-us/a
 Additionally, you have two options on how you could go about this:
 
 [**Nanodegree**](https://www.udacity.com/nanodegree)  
-> Graduate in 12 months, get a 50% tuition refund  
+`Graduate in 12 months, get a 50% tuition refund`
 
 (`$199/MONTH` × 2) - `50% refund` =  
 `$199 total`
 
 [**Nanodegree Plus**](https://www.udacity.com/nanodegree/plus)  
-> Get hired or receive a full tuition refund  
+`Get hired or receive a full tuition refund`
 
 (`$299/MONTH` × 2) =  
 `$598 total` ( *assuming you manage to find a job within 6 months* )  
