@@ -194,6 +194,18 @@ $0 total ( *assuming you did not find a job, and meet the terms of the Nanodegre
 
 &nbsp;
 
+> The course names on this page are different from the ones on Udacity. How can I find a course based on its actual name?
+
+Course listings on this page were renamed to proved an overall context.
+
+The `# Full Curriculum (Details)` section on the [**raw Markdown**](https://raw.githubusercontent.com/Enteleform/-RES-/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md) page can be used to reference actual course names.  
+&nbsp;  
+If you want to check a specific course against the context-based names: the fastest way is probably to use your web browser's search function and paste the course name from the URL.  
+&nbsp;  
+[**For example**](http://imgur.com/BVKhIHO), `developing-android-apps` instead of `Developing Android Apps`.
+
+&nbsp;
+
 -----
 
 &nbsp;
