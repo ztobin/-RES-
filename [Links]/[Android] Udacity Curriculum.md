@@ -156,11 +156,19 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 Yes. Udacity offers [**official course forums**](https://discussions.udacity.com/c/standalone-courses) that are accessible to all students ( *both free & paid* ).
 
+Additionally, students enrolled in the paid Nanodegree programs will be given access to an exclusive Slack network. Nanodegree students also have access to an optional [**UConnect**](https://www.udacity.com/uconnect) program ( *$99/month* ), where they will receive additional support.
+
 &nbsp; 
 
 > Are Nanodegree projects & material included in the free courses?
 
 For the most part. See [**this article**](https://udacity.zendesk.com/hc/en-us/articles/208018403-Are-Nanodegree-course-and-project-materials-available-for-free) on Udacity's support page.
+
+&nbsp; 
+
+> How do the Nanodegree programs work?
+
+See [**this article**](http://blog.udacity.com/2016/05/breaking-down-how-a-nanodegree-program-works.html) on Udacity's blog.
 
 &nbsp; 
 
@@ -173,13 +181,13 @@ Additionally, you have two options on how you could go about this:
 [**Nanodegree**](https://www.udacity.com/nanodegree)  
 `Graduate in 12 months, get a 50% tuition refund`
 
-($199/MONTH × 2) - 50% refund =  
+($199/month × 2) - 50% refund =  
 $199 total
 
 [**Nanodegree Plus**](https://www.udacity.com/nanodegree/plus)  
 `Get hired or receive a full tuition refund`
 
-($299/MONTH × 2) =  
+($299/month × 2) =  
 $598 total ( *assuming you manage to find a job within 6 months* )  
 OR  
 $0 total ( *assuming you comply with the terms of the Nanodegree Plus program* )  
