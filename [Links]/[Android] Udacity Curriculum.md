@@ -213,7 +213,7 @@ $199 total
 `Get hired or receive a full tuition refund`
 
 ($299/month × 2) =  
-$598 total ( *assuming you manage to find a job within 6 months* )  
+$598 total ( *assuming you manage to find a job within 6 months of completing the program* )  
 OR  
 $0 total ( *assuming you did not find a job, and meet the terms of the Nanodegree Plus program* )  
 
