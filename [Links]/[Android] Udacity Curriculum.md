@@ -152,11 +152,15 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 > Is there any kind of support network available for the courses?
 
-Yes. Udacity offers [official course forums](https://discussions.udacity.com/c/standalone-courses) that are accessible to all students ( *both free & paid* ).
+Yes. Udacity offers [**official course forums**](https://discussions.udacity.com/c/standalone-courses) that are accessible to all students ( *both free & paid* ).
+
+&nbsp; 
 
 > Are Nanodegree projects & material included in the free courses?
 
 For the most part. See [**this article**](https://udacity.zendesk.com/hc/en-us/articles/208018403-Are-Nanodegree-course-and-project-materials-available-for-free) on Udacity's support page.
+
+&nbsp; 
 
 > I'm interested in receiving the Nanodegree, but I can't afford to pay the $200-300 monthly fees for 6-12 months. Is there a cheaper way to complete the program?
 
