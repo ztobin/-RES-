@@ -154,7 +154,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 [How do the Nanodegree programs work?](#how-do-the-nanodegree-programs-work)
 
-[I'm interested in working through the Nanodegree program, but I can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a more affordable way to complete the program?](#im-interested-in-working-through-the-nanodegree-program-but-i-cant-afford-to-pay-the-200-300-monthly-fees-for-6-12-months-is-there-a-more-affordable-way-to-complete-the-program)
+[I'm interested in working through a Nanodegree program, but I can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a more affordable way to complete the program?](#im-interested-in-working-through-a-nanodegree-program-but-i-cant-afford-to-pay-the-200-300-monthly-fees-for-6-12-months-is-there-a-more-affordable-way-to-complete-the-program)
 
 [The course names on this page are different from the ones on Udacity.&nbsp; How can I find a course based on its actual name?](#the-course-names-on-this-page-are-different-from-the-ones-on-udacity-how-can-i-find-a-course-based-on-its-actual-name)
 
@@ -197,7 +197,7 @@ See [**this article**](http://blog.udacity.com/2016/05/breaking-down-how-a-nanod
 
 &nbsp; 
 
-> ### I'm interested in working through the Nanodegree program, but I can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a more affordable way to complete the program?
+> ### I'm interested in working through a Nanodegree program, but I can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a more affordable way to complete the program?
 
 [**According to Udacity's blog**](http://blog.udacity.com/2015/06/how-you-can-afford-the-nanodegree.html), you can work through the [**course material**](#nanodegree-outlines) for free, and then go back & complete the actual Nanodegree program in 2 months ( *the minimum enrollment period* ).
 
@@ -239,3 +239,5 @@ Several of the original course overviews are somewhat vague. Be aware that:
   * Project lists are approximated. There might be some variance in actual projects per course.
   * Some of the projects are not specific to a single course, and will be worked on several times throughout the entirety of the curriculum.
   * I took a few liberties with the course & project names to provide concise, informative descriptions; while maintaining & interpreting the original contexts to the best of my ability.
+  
+Most of the details in the reference were taken directly from Udacity's web page. These details are potentially subject to change, so you should refer directly to the relevant [**Udacity**](https://www.udacity.com/) pages to make sure that the listed information is still accurate. I especially recommend doing so if you plan on starting one of the paid Nanodegree programs based on the information provided here.
