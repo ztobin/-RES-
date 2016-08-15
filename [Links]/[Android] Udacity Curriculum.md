@@ -154,7 +154,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 [How do the Nanodegree programs work?](#how-do-the-nanodegree-programs-work)
 
-[I'm interested in working through a Nanodegree program, but I can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a more affordable way to get a Nanodegree?](#im-interested-in-working-through-a-nanodegree-program-but-i-cant-afford-to-pay-the-200-300-monthly-fees-for-6-12-months-is-there-a-more-affordable-way-to-get-a-nanodegree)
+[I'm interested in working through a Nanodegree program, but can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a more affordable way to get a Nanodegree?](#im-interested-in-working-through-a-nanodegree-program-but-cant-afford-to-pay-the-200-300-monthly-fees-for-6-12-months-is-there-a-more-affordable-way-to-get-a-nanodegree)
 
 [The course names on this page are different from the ones on Udacity.&nbsp; How can I find a course based on its actual name?](#the-course-names-on-this-page-are-different-from-the-ones-on-udacity-how-can-i-find-a-course-based-on-its-actual-name)
 
@@ -197,7 +197,7 @@ See [**this article**](http://blog.udacity.com/2016/05/breaking-down-how-a-nanod
 
 &nbsp; 
 
-> ### I'm interested in working through a Nanodegree program, but I can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a more affordable way to get a Nanodegree?
+> ### I'm interested in working through a Nanodegree program, but can't afford to pay the $200-300 monthly fees for 6-12 months.&nbsp; Is there a more affordable way to get a Nanodegree?
 
 [**According to Udacity's blog**](http://blog.udacity.com/2015/06/how-you-can-afford-the-nanodegree.html), you can work through the [**course material**](#nanodegree-outlines) for free, and then go back & complete the actual Nanodegree program in 2 months ( *the minimum enrollment period* ).
 
