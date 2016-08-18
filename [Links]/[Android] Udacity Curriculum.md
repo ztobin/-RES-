@@ -30,17 +30,17 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Git & GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)  
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅰ](https://www.udacity.com/course/android-development-for-beginners--ud837)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅰ](https://www.udacity.com/course/android-development-for-beginners--ud837) &nbsp; ★¹  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[UI Design](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Networking](https://www.udacity.com/course/android-basics-networking--ud843)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839) &nbsp; ★¹  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Networking](https://www.udacity.com/course/android-basics-networking--ud843) &nbsp; ★¹  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)  
 
 ## Intermediate
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅱ](https://www.udacity.com/course/developing-android-apps--ud853)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅱ](https://www.udacity.com/course/developing-android-apps--ud853) &nbsp; ★²  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862) &nbsp; ★²  
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Services
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sign-In & Profiles](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Maps](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4)  
@@ -54,14 +54,19 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 ## Advanced
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅲ](https://www.udacity.com/course/advanced-android-app-development--ud855)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅲ](https://www.udacity.com/course/advanced-android-app-development--ud855) &nbsp; ★²  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Optimizing App Performance](https://www.udacity.com/course/android-performance--ud825)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Firebase](https://www.udacity.com/course/firebase-essentials-for-android--ud009)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867) &nbsp; ★²  
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Platforms
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Android TV & Google Cast](https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Android Wear](https://www.udacity.com/course/android-wear-development--ud875A) &nbsp; ★²  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Android Auto](https://www.udacity.com/course/android-auto-development--ud875C)  
+
+&nbsp;
+
+\* *Courses that are followed by* ★¹ *are part of the [**Android Basics**](https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md#android-basics) Nanodegree program.*  
+\* *Courses that are followed by* ★² *are part of the [**Android Developer**](https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md#android-developer) Nanodegree program.*  
 
 &nbsp;
 
@@ -77,13 +82,13 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Beginner     | Preparation | [Java Ⅱ](https://www.udacity.com/course/intro-to-java-programming--cs046)                                 | 4 Months |                                                             |
 | Beginner     | Preparation | [Git & GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)                           | 3 Weeks  | Contribute to a Repository                                  |
 | Beginner     | Preparation | [Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)             | 1 Day    |                                                             |
-| Beginner     | Core        | [App Development Ⅰ](https://www.udacity.com/course/android-development-for-beginners--ud837)              | 4 Weeks  | Score Tracker, Fact List, Quiz, Music Player, Business Info |
+| Beginner     | Core        | [App Development Ⅰ](https://www.udacity.com/course/android-development-for-beginners--ud837) &nbsp; ★¹    | 4 Weeks  | Score Tracker, Fact List, Quiz, Music Player, Business Info |
 | Beginner     | Core        | [UI Design](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)                      | 4 Weeks  | Build Your Own App                                          |
-| Beginner     | Core        | [Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)               | 8 Weeks  | Report Card, Tour Guide                                     |
-| Beginner     | Core        | [Networking](https://www.udacity.com/course/android-basics-networking--ud843)                             | 5 Weeks  | Book List, News Reader                                      |
+| Beginner     | Core        | [Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839) &nbsp; ★¹     | 8 Weeks  | Report Card, Tour Guide                                     |
+| Beginner     | Core        | [Networking](https://www.udacity.com/course/android-basics-networking--ud843) &nbsp; ★¹                   | 5 Weeks  | Book List, News Reader                                      |
 | Beginner     | Core        | [UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)                        | 6 Weeks  | Build a User-Targeted App                                   |
-| Intermediate | Core        | [App Development Ⅱ](https://www.udacity.com/course/developing-android-apps--ud853)                        | 2 Weeks  | Popular Movies, Weather, Build Your Own App                 |
-| Intermediate | Core        | [Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862)           | 4 Weeks  | Apply Material Design to News Reader                        |
+| Intermediate | Core        | [App Development Ⅱ](https://www.udacity.com/course/developing-android-apps--ud853) &nbsp; ★²              | 2 Weeks  | Popular Movies, Weather, Build Your Own App                 |
+| Intermediate | Core        | [Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862) &nbsp; ★² | 4 Weeks  | Apply Material Design to News Reader                        |
 | Intermediate | Services    | [Sign-In & Profiles](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)     | 2 Weeks  |                                                             |
 | Intermediate | Services    | [Maps](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4)                       | 2 Weeks  |                                                             |
 | Intermediate | Services    | [Location & Context](https://www.udacity.com/course/google-location-services-on-android--ud876-1)         | 2 Weeks  |                                                             |
@@ -91,16 +96,18 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Intermediate | Services    | [Ads](https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3)                         | 2 Weeks  |                                                             |
 | Intermediate | Games       | [Game Design Ⅰ](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)                    | 8 Weeks  | Breakout Clone                                              |
 | Intermediate | Games       | [Game Design Ⅱ](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)              | 8 Weeks  | MegaMan Clone                                               |
-| Advanced     | Core        | [App Development Ⅲ](https://www.udacity.com/course/advanced-android-app-development--ud855)               | 6 Weeks  | Stock Tracker                                               |
+| Advanced     | Core        | [App Development Ⅲ](https://www.udacity.com/course/advanced-android-app-development--ud855) &nbsp; ★²     | 6 Weeks  | Stock Tracker                                               |
 | Advanced     | Core        | [Optimizing App Performance](https://www.udacity.com/course/android-performance--ud825)                   | 4 Weeks  |                                                             |
 | Advanced     | Core        | [Firebase](https://www.udacity.com/course/firebase-essentials-for-android--ud009)                         | 8 Weeks  |                                                             |
-| Advanced     | Core        | [Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867)                               | 6 Weeks  | Joke Teller                                                 |
+| Advanced     | Core        | [Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867) &nbsp; ★²                     | 6 Weeks  | Joke Teller                                                 |
 | Advanced     | Platforms   | [Android TV & Google Cast](https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B) | 1 Week   |                                                             |
-| Advanced     | Platforms   | [Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)                           | 2 Weeks  | Create Wear Interface for Weather App                       |
+| Advanced     | Platforms   | [Android Wear](https://www.udacity.com/course/android-wear-development--ud875A) &nbsp; ★²                 | 2 Weeks  | Create Wear Interface for Weather App                       |
 | Advanced     | Platforms   | [Android Auto](https://www.udacity.com/course/android-auto-development--ud875C)                           | 1 Week   |                                                             |
 
 &nbsp;
 
+\* *Courses that are followed by* ★¹ *are part of the [**Android Basics**](https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md#android-basics) Nanodegree program.*  
+\* *Courses that are followed by* ★² *are part of the [**Android Developer**](https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md#android-developer) Nanodegree program.*  
 \* *Course lengths are based on Udacity's presumed allocation of 6 hours per week.*
 
 &nbsp;
@@ -117,9 +124,9 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 > Entering students should be motivated to learn and be comfortable with basic computer skills like managing files, navigating the Internet and running programs.
 
 **Curriculum:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅰ](https://www.udacity.com/course/android-development-for-beginners--ud837)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Networking](https://www.udacity.com/course/android-basics-networking--ud843)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅰ](https://www.udacity.com/course/android-development-for-beginners--ud837)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Networking](https://www.udacity.com/course/android-basics-networking--ud843)     
 
 *Also, there are currently "Habit Tracker" & "Inventory Tracker" projects listed with the message: "Supporting course content coming in August!". I believe these will be part of the "Android Basics: Data Storage" course which is currently listed as "Coming Soon".*
 
