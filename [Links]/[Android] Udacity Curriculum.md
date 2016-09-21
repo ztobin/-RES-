@@ -34,6 +34,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[UI Design](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839) &nbsp; ☆¹  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Networking](https://www.udacity.com/course/android-basics-networking--ud843) &nbsp; ☆¹  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)  
 
 ## Intermediate
@@ -86,6 +87,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 | Beginner     | Core        | [UI Design](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)                      | 4 Weeks  | Build Your Own App                                          |
 | Beginner     | Core        | [Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839) &nbsp; ☆¹     | 8 Weeks  | Report Card, Tour Guide                                     |
 | Beginner     | Core        | [Networking](https://www.udacity.com/course/android-basics-networking--ud843) &nbsp; ☆¹                   | 5 Weeks  | Book List, News Reader                                      |
+| Beginner     | Core        | [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) &nbsp;                  | 8 Weeks  | Pet Database                                                |
 | Beginner     | Core        | [UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)                        | 6 Weeks  | Build a User-Targeted App                                   |
 | Intermediate | Core        | [App Development Ⅱ](https://www.udacity.com/course/developing-android-apps--ud853) &nbsp; ☆²              | 2 Weeks  | Popular Movies, Weather, Build Your Own App                 |
 | Intermediate | Core        | [Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862) &nbsp; ☆² | 4 Weeks  | Apply Material Design to News Reader                        |
@@ -124,11 +126,11 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 > Entering students should be motivated to learn and be comfortable with basic computer skills like managing files, navigating the Internet and running programs.
 
 **Curriculum:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅰ](https://www.udacity.com/course/android-development-for-beginners--ud837)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Networking](https://www.udacity.com/course/android-basics-networking--ud843)     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Development Ⅰ](https://www.udacity.com/course/android-development-for-beginners--ud837)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Multi-Screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Networking](https://www.udacity.com/course/android-basics-networking--ud843)  
 
-*Also, there are currently "Habit Tracker" & "Inventory Tracker" projects listed with the message: "Supporting course content coming in August!". I believe these will be part of the "Android Basics: Data Storage" course which is currently listed as "Coming Soon".*
+*Also, there are currently "Habit Tracker" & "Inventory Tracker" projects listed with the message: "Supporting course content coming in August!".*
 
 &nbsp;
 
